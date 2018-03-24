@@ -29,6 +29,7 @@ Disse bør vi klare
 - Dimmu Borgir - Gatways
 - Testament - Practice What You Preach
 - Tristania - My Lost Lenore
-- Roy Harper - The Black Cloud of Islam 
+- Roy Harper - The Black Cloud of Islam
+- Roger Waters - What God wants
 - ??? - Er på vei til Nachspiel, men trenger gitarist
 - Den veslefrikk med fela spiller
