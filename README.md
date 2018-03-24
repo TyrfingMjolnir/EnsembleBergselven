@@ -22,5 +22,6 @@ Disse bør vi klare
 - Rainbow - Temple of the King
 - Dio - Rainbow in the Dark
 - The Doors - People are Strange
+- Black Debath - Den 5e Statsmakt
 - ??? - Er på vei til Nachspiel, men trenger gitarist
 - Den veslefrikk med fela spiller
