@@ -1,7 +1,7 @@
 # EnsembleBergselven
 Disse bør vi klare
 
-- Johan Sebastian Bach - Toccata en fugue in D minor
+- Johan Sebastian Bach - Toccata en fugue in D minor( det var en gang et menneske )
 - Procol Harum - A Whiter Shade of Pale
 - U2 - Stuck in Moment
 - ??? - The Rocky Road to Dublin
@@ -14,6 +14,10 @@ Disse bør vi klare
 - Metallica - Welcome Home
 - Metallica - Lepper Messiah
 - Metallica - Fight Fire with Fire
+- Savatage - White Witch
+- Savatage - Hall of the Mountain King
+- Rainbow - Man on the Silver Mountain
+- Dio - Rainbow in the Dark
 - The Doors - People are Strange
 - ??? - Er på vei til Nachspiel, men trenger gitarist
 - Den veslefrikk med fela spiller
