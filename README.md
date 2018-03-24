@@ -1,2 +1,15 @@
 # EnsembleBergselven
 Disse bør vi klare
+
+- Johan Sebastian Bach - Toccata en fugue in D minor
+- Procol Harum - A Whiter Shade of Pale
+- U2 - Stuck in Moment
+- ??? - The Rocky Road to Dublin
+- Thin Lizzy - Dancing in the Moonlight
+- Marius Müller - Ikke tru et ord
+- Metallica - Orion
+- Metallica - Master of Puppets
+- Metallica - Welcome Home
+- Metallica - Lepper Messiah
+- Metallica - Fight Fire with Fire
+- The Doors - People are Strange
