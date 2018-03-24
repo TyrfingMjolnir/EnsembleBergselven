@@ -31,5 +31,6 @@ Disse bør vi klare
 - Tristania - My Lost Lenore
 - Roy Harper - The Black Cloud of Islam
 - Roger Waters - What God wants
+- Roger Waters - Amused to Death
 - ??? - Er på vei til Nachspiel, men trenger gitarist
 - Den veslefrikk med fela spiller
