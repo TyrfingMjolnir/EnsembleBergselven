@@ -2,6 +2,7 @@
 Disse bør vi klare
 
 - Johan Sebastian Bach - Toccata en fugue in D minor( Tittellåta fra: Det var en gang et menneske )
+- Ludwig van Beethoven - Moonligh Sonata
 - Procol Harum - A Whiter Shade of Pale
 - U2 - Stuck in a Moment
 - ??? - The Rocky Road to Dublin
