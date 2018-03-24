@@ -10,6 +10,7 @@ Disse bør vi klare
 - Thin Lizzy - Black Rose
 - Marius Müller - Ikke tru et ord
 - Metallica - Orion
+- Metallica - For Whom the Bell tolls
 - Metallica - Master of Puppets
 - Metallica - Welcome Home
 - Metallica - Lepper Messiah
