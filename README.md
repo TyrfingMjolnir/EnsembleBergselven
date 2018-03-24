@@ -14,6 +14,7 @@ Disse bør vi klare
 - Metallica - Welcome Home
 - Metallica - Lepper Messiah
 - Metallica - Fight Fire with Fire
+- Helloween - Walls of Jericho
 - Savatage - White Witch
 - Savatage - Hall of the Mountain King
 - Rainbow - Man on the Silver Mountain
