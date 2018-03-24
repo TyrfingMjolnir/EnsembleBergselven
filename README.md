@@ -19,6 +19,7 @@ Disse bør vi klare
 - Savatage - White Witch
 - Savatage - Hall of the Mountain King
 - Rainbow - Man on the Silver Mountain
+- Rainbow - Temple of the King
 - Dio - Rainbow in the Dark
 - The Doors - People are Strange
 - ??? - Er på vei til Nachspiel, men trenger gitarist
