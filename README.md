@@ -5,6 +5,7 @@ Disse bør vi klare
 - Procol Harum - A Whiter Shade of Pale
 - U2 - Stuck in a Moment
 - ??? - The Rocky Road to Dublin
+- ??? - Fairytale of New York
 - Thin Lizzy - Dancing in the Moonlight
 - Thin Lizzy - The Boys are back in Town
 - Thin Lizzy - Black Rose
