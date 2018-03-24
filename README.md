@@ -3,7 +3,7 @@ Disse bør vi klare
 
 - Johan Sebastian Bach - Toccata en fugue in D minor( det var en gang et menneske )
 - Procol Harum - A Whiter Shade of Pale
-- U2 - Stuck in Moment
+- U2 - Stuck in a Moment
 - ??? - The Rocky Road to Dublin
 - Thin Lizzy - Dancing in the Moonlight
 - Thin Lizzy - The Boys are back in Town
