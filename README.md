@@ -16,3 +16,4 @@ Disse bør vi klare
 - Metallica - Fight Fire with Fire
 - The Doors - People are Strange
 - ??? - Er på vei til Nachspiel, men trenger gitarist
+- Den veslefrikk med fela speller
