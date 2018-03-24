@@ -23,5 +23,8 @@ Disse bør vi klare
 - Dio - Rainbow in the Dark
 - The Doors - People are Strange
 - Black Debath - Den 5e Statsmakt
+- Dimmu Borgir - Raabjørn Speiler Draugheimens Skodde
+- Dimmu Borgir - Gatways
+- Tristania - My Lost Lenore
 - ??? - Er på vei til Nachspiel, men trenger gitarist
 - Den veslefrikk med fela spiller
