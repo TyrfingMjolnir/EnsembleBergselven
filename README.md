@@ -15,6 +15,7 @@ Disse bør vi klare
 - Metallica - Welcome Home
 - Metallica - Lepper Messiah
 - Metallica - Fight Fire with Fire
+- Metallica - To Live is to Die
 - Helloween - Walls of Jericho
 - Savatage - White Witch
 - Savatage - Hall of the Mountain King
@@ -25,6 +26,7 @@ Disse bør vi klare
 - Black Debath - Den 5e Statsmakt
 - Dimmu Borgir - Raabjørn Speiler Draugheimens Skodde
 - Dimmu Borgir - Gatways
+- Testament - Practice What You Preach
 - Tristania - My Lost Lenore
 - ??? - Er på vei til Nachspiel, men trenger gitarist
 - Den veslefrikk med fela spiller
