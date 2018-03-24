@@ -13,3 +13,4 @@ Disse bør vi klare
 - Metallica - Lepper Messiah
 - Metallica - Fight Fire with Fire
 - The Doors - People are Strange
+- ??? - Er på vei til Nachspiel, men trenger gitarist
