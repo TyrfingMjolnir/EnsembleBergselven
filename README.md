@@ -7,6 +7,7 @@ Disse bør vi klare
 - U2 - Stuck in a Moment
 - ??? - The Rocky Road to Dublin
 - ??? - Fairytale of New York
+- Gary Moore - Over the Hills
 - Thin Lizzy - Dancing in the Moonlight
 - Thin Lizzy - The Boys are back in Town
 - Thin Lizzy - Black Rose
