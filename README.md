@@ -8,6 +8,7 @@ Disse bør vi klare
 - ??? - The Rocky Road to Dublin
 - ??? - Fairytale of New York
 - Deep Purple - Perfect Strangers
+- Derik and the Dominos - Leyla
 - Gary Moore - Over the Hills
 - Thin Lizzy - Dancing in the Moonlight
 - Thin Lizzy - The Boys are back in Town
