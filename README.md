@@ -18,6 +18,8 @@ Disse bør vi klare
 - Metallica - Lepper Messiah
 - Metallica - Fight Fire with Fire
 - Metallica - To Live is to Die
+- Megadeth - Symphony of Destruction
+- Ozzy - Crazy Train
 - Helloween - Walls of Jericho
 - Savatage - White Witch
 - Savatage - Hall of the Mountain King
