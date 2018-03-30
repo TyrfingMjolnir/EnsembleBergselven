@@ -40,4 +40,4 @@ Disse bør vi klare
 - Roger Waters - What God wants
 - Roger Waters - Amused to Death
 - ??? - Er på vei til Nachspiel, men trenger gitarist
-- Den veslefrikk med fela spiller
+- Den Veslefrikk med fela spiller
