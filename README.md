@@ -33,7 +33,7 @@ Disse bør vi klare
 - The Doors - People are Strange
 - Black Debath - Den 5e Statsmakt
 - Dimmu Borgir - Raabjørn Speiler Draugheimens Skodde
-- Dimmu Borgir - Gatways
+- Dimmu Borgir - Gateways
 - Testament - Practice What You Preach
 - Tristania - My Lost Lenore
 - Roy Harper - The Black Cloud of Islam
