@@ -13,6 +13,7 @@ Disse bør vi klare
 - Thin Lizzy - Dancing in the Moonlight
 - Thin Lizzy - The Boys are back in Town
 - Thin Lizzy - Black Rose
+- Iggy Pop - Passenger
 - Marius Müller - Ikke tru et ord
 - Metallica - Orion
 - Metallica - For Whom the Bell tolls
