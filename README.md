@@ -2,6 +2,7 @@
 Disse bør vi klare
 
 - Johan Sebastian Bach - Toccata en fugue in D minor( Tittellåta fra: Det var en gang et menneske )
+- Paul Hyde - The maddest of the mad
 - Ludwig van Beethoven - Moonligh Sonata
 - Procol Harum - A Whiter Shade of Pale
 - U2 - Stuck in a Moment
@@ -28,8 +29,9 @@ Disse bør vi klare
 - Helloween - Walls of Jericho
 - Savatage - White Witch
 - Savatage - Hall of the Mountain King
-- Rainbow - Man on the Silver Mountain
-- Rainbow - Temple of the King
+- Rainbow
+  - Man on the Silver Mountain
+  - Temple of the King
 - Iron Maiden - Run to the Hills
 - Dio - Rainbow in the Dark
 - The Doors - People are Strange
