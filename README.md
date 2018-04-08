@@ -30,8 +30,9 @@ Disse bør vi klare
   - Symphony of Destruction
 - Ozzy - Crazy Train
 - Helloween - Walls of Jericho
-- Savatage - White Witch
-- Savatage - Hall of the Mountain King
+- Savatage
+  - White Witch
+  - Hall of the Mountain King
 - Rainbow
   - Man on the Silver Mountain
   - Temple of the King
@@ -39,12 +40,14 @@ Disse bør vi klare
 - Dio - Rainbow in the Dark
 - The Doors - People are Strange
 - Black Debath - Den 5e Statsmakt
-- Dimmu Borgir - Raabjørn Speiler Draugheimens Skodde
-- Dimmu Borgir - Gateways
+- Dimmu Borgir
+  - Raabjørn Speiler Draugheimens Skodde
+  - Gateways
 - Testament - Practice What You Preach
 - Tristania - My Lost Lenore
 - Roy Harper - The Black Cloud of Islam
-- Roger Waters - What God wants
-- Roger Waters - Amused to Death
+- Roger Waters
+  - What God wants
+  - Amused to Death
 - ??? - Er på vei til Nachspiel, men trenger gitarist
 - Den Veslefrikk med fela spiller
