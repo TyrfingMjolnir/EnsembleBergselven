@@ -11,20 +11,23 @@ Disse bør vi klare
 - Deep Purple - Perfect Strangers
 - Derik and the Dominos - Leyla
 - Gary Moore - Over the Hills
-- Thin Lizzy - Dancing in the Moonlight
-- Thin Lizzy - The Boys are back in Town
-- Thin Lizzy - Black Rose
+- Thin Lizzy
+  - Dancing in the Moonlight
+  - The Boys are back in Town
+  - Black Rose
 - Iggy Pop - Passenger
 - Lou Reed - Perfect Day
 - Marius Müller - Ikke tru et ord
-- Metallica - Orion
-- Metallica - For Whom the Bell tolls
-- Metallica - Master of Puppets
-- Metallica - Welcome Home
-- Metallica - Lepper Messiah
-- Metallica - Fight Fire with Fire
-- Metallica - To Live is to Die
-- Megadeth - Symphony of Destruction
+- Metallica
+  - Orion
+  - For Whom the Bell tolls
+  - Master of Puppets
+  - Welcome Home
+  - Lepper Messiah
+  - Fight Fire with Fire
+  - To Live is to Die
+- Megadeth
+  - Symphony of Destruction
 - Ozzy - Crazy Train
 - Helloween - Walls of Jericho
 - Savatage - White Witch
