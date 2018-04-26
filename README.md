@@ -75,3 +75,5 @@ Disse bør vi klare
   - Er på vei til Nachspiel, men trenger gitarist
 - ???
   - Den Veslefrikk med fela spiller
+- Nordraak
+  - Norges Skaal
