@@ -11,6 +11,10 @@ Disse bør vi klare
 - Black Sabbath
   - Evil Woman
   - Iron Man
+- Deep Purple
+  - Perfect Strangers
+- Derik and the Dominos
+  - Leyla
 - Dimmu Borgir
   - Raabjørn Speiler Draugheimens Skodde
   - Gateways
@@ -18,10 +22,6 @@ Disse bør vi klare
   - Rainbow in the Dark
 - The Doors
   - People are Strange
-- Deep Purple
-  - Perfect Strangers
-- Derik and the Dominos
-  - Leyla
 - Gary Moore
   - Over the Hills
 - Helloween
