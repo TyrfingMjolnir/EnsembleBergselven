@@ -1,5 +1,4 @@
-# Et uregjerlig villniss
-## EnsembleBergselven
+# Ensemble Bergselven - Et uregjerlig villniss
 
 Disse bør vi klare
 
