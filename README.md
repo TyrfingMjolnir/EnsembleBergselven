@@ -30,6 +30,8 @@ Disse bør vi klare
   - Passenger
 - Iron Maiden
   - Run to the Hills
+- Jefferson Airplane
+  - White Rabbit( Sanctuary inspired )
 - Lou Reed
   - Perfect Day
 - Marius Müller
