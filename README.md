@@ -18,8 +18,6 @@ Disse bør vi klare
 - Dimmu Borgir
   - Raabjørn Speiler Draugheimens Skodde
   - Gateways
-- Leaf Hound
-  - Freelance Fiend
 - Dio
   - Rainbow in the Dark
 - The Doors
@@ -34,6 +32,8 @@ Disse bør vi klare
   - Run to the Hills
 - Jefferson Airplane
   - White Rabbit( Sanctuary inspired )
+- Leaf Hound
+  - Freelance Fiend https://www.youtube.com/watch?v=ZMkKytAUHzA
 - Lou Reed
   - Perfect Day
 - Marius Müller
