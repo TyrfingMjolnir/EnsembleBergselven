@@ -33,7 +33,7 @@ Disse bør vi klare
 - Jefferson Airplane
   - White Rabbit( Sanctuary inspired )
 - Leaf Hound
-  - Freelance Fiend https://www.youtube.com/watch?v=ZMkKytAUHzA
+  - Freelance Fiend https://youtu.be/ZMkKytAUHzA
 - Lou Reed
   - Perfect Day
 - Marius Müller
