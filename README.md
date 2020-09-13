@@ -18,6 +18,8 @@ Disse bør vi klare
 - Dimmu Borgir
   - Raabjørn Speiler Draugheimens Skodde
   - Gateways
+- Leaf Hound
+  - Freelance Fiend
 - Dio
   - Rainbow in the Dark
 - The Doors
