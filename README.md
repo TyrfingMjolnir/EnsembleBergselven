@@ -59,6 +59,8 @@ Disse bør vi klare
   - The smallest coin
 - Procol Harum
   - A Whiter Shade of Pale
+- Raw Material
+  - Pear on an Apple Tree
 - Rainbow
   - Man on the Silver Mountain
   - Temple of the King
