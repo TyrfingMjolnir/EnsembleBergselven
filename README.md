@@ -19,6 +19,7 @@ Disse bør vi klare
   - Raabjørn Speiler Draugheimens Skodde
   - Gateways
 - Dio
+  - Holy Diver
   - Rainbow in the Dark
 - The Doors
   - People are Strange
