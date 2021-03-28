@@ -26,6 +26,7 @@ Disse bør vi klare
   - Over the Hills
 - Helloween
   - Walls of Jericho
+  - Ride the Sky
 - Iggy Pop
   - Passenger
 - Iron Maiden
@@ -38,13 +39,15 @@ Disse bør vi klare
   - Perfect Day
 - Marius Müller
   - Ikke tru et ord
+  - Den du veit
 - Megadeth
+  - Peace Sells
   - Symphony of Destruction
 - Metallica
   - Orion
   - For Whom the Bell tolls
   - Master of Puppets
-  - Welcome Home
+  - Welcome Home( Sanitarium )
   - Lepper Messiah
   - Fight Fire with Fire
   - To Live is to Die
@@ -52,6 +55,7 @@ Disse bør vi klare
   - Crazy Train
 - Paul Hyde
   - The maddest of the mad
+  - The smallest coin
 - Procol Harum
   - A Whiter Shade of Pale
 - Rainbow
@@ -60,8 +64,9 @@ Disse bør vi klare
 - Rikard Nordraak
   - Norges Skaal
 - Roger Waters
-  - What God wants
   - Amused to Death
+  - Is this the life we really want?
+  - What God wants
 - Roy Harper
   - The Black Cloud of Islam
 - SAFT
@@ -85,5 +90,5 @@ Disse bør vi klare
   - Den Veslefrikk med fela spiller
 - ???
   - The Rocky Road to Dublin
-- ???
+- The Pogues?
   - Fairytale of New York
